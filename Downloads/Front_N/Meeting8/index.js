@@ -54,3 +54,5 @@
 //     `HI, nama saya ${name} umur saya ${age} tahun`;
 
 // console.log(greetings("Asep", "50"))
+
+console.log("Update dari Git")
